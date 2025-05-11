@@ -1,5 +1,5 @@
 import { useState } from "react";
-import bannerImage from "./banner.jpg"; // Adjust the path if needed
+
 // Translation dictionaries
 const translations = {
   es: {
